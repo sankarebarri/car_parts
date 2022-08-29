@@ -71,7 +71,6 @@ input[type=submit] {
   width: 120px;
   font-size: 15px;
   font-weight: bold;
-  border: none;
 }
 
 input[type=submit]:hover {
